@@ -7,4 +7,4 @@
 
 如果你觉得还不错，希望赏个star，谢谢了!   
 
-![img](https://github.com/weiming4219/ZWMLuckView/blob/master/ZWMLuckViewDemo/luck.gif)   
+![img](https://github.com/weiming4219/ZWMLuckView/blob/master/ZWMLuckViewDemo/ZWMLuckViewDemo/luck.gif)   
